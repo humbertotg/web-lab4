@@ -21,7 +21,6 @@ function TodoPost(event){
     checkbox.name = "todo"
 
     label.textContent = todo
-    label.className("class","lbl")
 
     div.appendChild(checkbox)
     div.appendChild(label)
